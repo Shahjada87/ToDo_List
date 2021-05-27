@@ -1,6 +1,6 @@
 html {
-  background-color: #1abb9c;
-  background-image: -webkit-linear-gradient(65deg, #3b0944 50%, #1abb9c 50%);
+  background-color: #ff7a5c;
+  background-image: -webkit-linear-gradient(65deg, #53d397 50%, #ff7a5c 50%);
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
@@ -19,7 +19,7 @@ h1 {
 }
 
 #heading {
-  background-color: #3b0944;
+  background-color: #53d397;
   text-align: center;
 }
 
@@ -36,7 +36,7 @@ h1 {
 
 input:checked+p {
   text-decoration: line-through;
-  text-decoration-color: #3b0944;
+  text-decoration-color: #53d397;
 }
 
 input[type="checkbox"] {
@@ -61,7 +61,7 @@ button {
   width: 50px;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #3b0944;
+  background-color: #53d397;
   color: #fff;
   font-size: 30px;
   padding-bottom: 6px;
