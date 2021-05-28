@@ -1,12 +1,12 @@
 html {
-  background-color: #e84545;
-  background-image: -webkit-linear-gradient(65deg, #000000 50%, #e84545 50%);
+  background-color: #cf0000;
+  background-image: -webkit-linear-gradient(65deg, #000000 50%, #cf0000 50%);
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
 
 h1 {
-  color: #fff;
+  color: #cf0000;
   padding: 10px;
 }
 
@@ -62,7 +62,7 @@ button {
   border-radius: 50%;
   border-color: transparent;
   background-color: #000000;
-  color: #fff;
+  color: #cf0000;
   font-size: 30px;
   padding-bottom: 6px;
   border-width: 0;
